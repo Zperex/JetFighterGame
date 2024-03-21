@@ -44,7 +44,7 @@ Jet Fighter Game is a simple arcade-style game developed in Java using Swing. It
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](gameplay.png)
 
 ## Contributing
 
